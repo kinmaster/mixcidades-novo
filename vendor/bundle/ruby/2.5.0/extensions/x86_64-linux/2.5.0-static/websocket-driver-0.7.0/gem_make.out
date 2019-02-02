@@ -1,0 +1,15 @@
+current directory: /home/lucian/Documentos/mixcidades-new/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/home/lucian/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20190202-7412-1gak80u.rb extconf.rb
+creating Makefile
+
+current directory: /home/lucian/Documentos/mixcidades-new/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/lucian/Documentos/mixcidades-new/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/lucian/Documentos/mixcidades-new/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20190202-7412-1366qhu
